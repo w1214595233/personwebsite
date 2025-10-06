@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact Me\nIf you’d like to connect, collaborate, or learn more about my work, feel free to reach out!\n📧 Email: w21547724@gmail.com\n📞 Phone: (626) 747-5111\n📍 Location: Diamond Bar, California\nYou can also connect with me on\n🌐 LinkedIn: linkedin.com/in/haocun-wang (add your actual link)\n💻 GitHub: github.com/haocunwang (add your actual repo)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: PySpark, Pandas, Quarto, Plotly\nDeveloped interactive visualizations analyzing job market salary distributions using Lightcast job postings data.\nExplored relationships between experience level, education, and industry type to uncover patterns in remote and onsite employment.\n- Created automated dashboards with Python and Quarto.\n- Applied Spark SQL for large-scale data processing.\n- Designed visual storytelling for executive reporting.\n\n\n\n\nTools: Excel, Tableau\nPerformed a comprehensive startup market assessment as part of the Startup Innovation course.\nEvaluated market positioning, financial sustainability, and customer segments for early-stage businesses.\nDelivered a data-driven strategy presentation using visualization tools to demonstrate business viability.\n\n\n\n\nRole: Assistant Analyst Intern | 07/2023–09/2023\nAnalyzed market data, supported investment research, and produced valuation summaries.\nWorked with senior analysts to identify regional investment opportunities and customer segments.\nEnhanced reporting accuracy by organizing datasets and generating insights for internal strategy teams.\n\n\n\n\nRole: Assistant Analyst Intern | 12/2022–01/2023\nCollected and interpreted supply chain and logistics data.\nDeveloped reports highlighting efficiency trends and performance gaps.\nSupported market research, regional expansion, and customer data management projects."
+  },
+  {
+    "objectID": "projects.html#business-analytics-portfolio",
+    "href": "projects.html#business-analytics-portfolio",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: PySpark, Pandas, Quarto, Plotly\nDeveloped interactive visualizations analyzing job market salary distributions using Lightcast job postings data.\nExplored relationships between experience level, education, and industry type to uncover patterns in remote and onsite employment.\n- Created automated dashboards with Python and Quarto.\n- Applied Spark SQL for large-scale data processing.\n- Designed visual storytelling for executive reporting."
+  },
+  {
+    "objectID": "projects.html#strategic-startup-analysis",
+    "href": "projects.html#strategic-startup-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: Excel, Tableau\nPerformed a comprehensive startup market assessment as part of the Startup Innovation course.\nEvaluated market positioning, financial sustainability, and customer segments for early-stage businesses.\nDelivered a data-driven strategy presentation using visualization tools to demonstrate business viability."
+  },
+  {
+    "objectID": "projects.html#real-estate-data-research-great-wall-realty-inc.",
+    "href": "projects.html#real-estate-data-research-great-wall-realty-inc.",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Assistant Analyst Intern | 07/2023–09/2023\nAnalyzed market data, supported investment research, and produced valuation summaries.\nWorked with senior analysts to identify regional investment opportunities and customer segments.\nEnhanced reporting accuracy by organizing datasets and generating insights for internal strategy teams."
+  },
+  {
+    "objectID": "projects.html#logistics-data-analysis-chcl-logistics-inc.",
+    "href": "projects.html#logistics-data-analysis-chcl-logistics-inc.",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Assistant Analyst Intern | 12/2022–01/2023\nCollected and interpreted supply chain and logistics data.\nDeveloped reports highlighting efficiency trends and performance gaps.\nSupported market research, regional expansion, and customer data management projects."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Haocun Wang",
+    "section": "",
+    "text": "title: “Haocun Wang” format: html: theme: cerulean toc: true —\n\nWelcome\nHello! I’m Haocun Wang, a graduate student at Boston University pursuing a Master of Science in Applied Business Analytics.\nWith a solid foundation in finance from Weber State University and a growing expertise in data analytics, strategic management, and business intelligence, I am passionate about leveraging data-driven insights to support smart business decisions.\nThis website serves as my professional portfolio, showcasing my academic work, projects, and experience.\nPlease explore the tabs above to learn more about me, view my work, and connect professionally."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nI’m Haocun Wang, a data-driven professional passionate about the intersection of finance, analytics, and innovation.\nCurrently pursuing my Master’s in Applied Business Analytics at Boston University, I am focused on developing strong analytical and programming skills to support business intelligence and data visualization for real-world decision-making.\nI earned my Bachelor of Science in Finance from Weber State University, where I built a strong foundation in microeconomics, strategic management, financial institutions, and supply chain operations.\nMy academic and professional journey has shaped me into a curious problem solver who enjoys uncovering insights hidden within data.\nIn my free time, I enjoy exploring machine learning applications, startup innovation, and emerging business technologies.\nMy long-term goal is to become a Business or Data Analyst specializing in strategic analytics for financial and technology sectors.\n\n\n🎯 Career Goals\n\nBuild expertise in data analytics and business intelligence tools (Python, PySpark, Tableau, SQL).\n\nWork in industries where data science meets business strategy, such as finance, consulting, or tech.\n\nContinue developing leadership, communication, and cross-functional project skills."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download my CV: Haocun_Wang_CV.pdf\n\n\n\n\nBoston University, Boston, MA\nMaster of Science in Applied Business Analytics (2024–Present)\nWeber State University, Ogden, UT\nBachelor of Science in Finance (2020–2023)\nGPA: 3.75/4.0\nRelevant Courses: Strategic Management, Financial Management, Organizational Behavior, Operations & Supply Chain, Statistics II, Macroeconomics, Microeconomics.\n\n\n\n\n\n\n\nJul 2023 – Sep 2023 | Remote\n- Conducted real estate data analysis and produced investment value reports.\n- Collaborated with senior analysts on R&D strategy and market projects.\n- Engaged with clients to understand needs and deliver customized insights.\n\n\n\nDec 2022 – Jan 2023 | Remote\n- Collected and interpreted data for logistics operations.\n- Assisted in regional market expansion and customer development.\n- Performed profitability and financial data analysis.\n\n\n\n\n\n\nLanguages: English, Mandarin\n\nTools: Microsoft Excel, Power BI, Python (Pandas, Spark), Tableau, SQL\n\nSoft Skills: Research, Communication, Strategic Thinking, Team Collaboration"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Boston University, Boston, MA\nMaster of Science in Applied Business Analytics (2024–Present)\nWeber State University, Ogden, UT\nBachelor of Science in Finance (2020–2023)\nGPA: 3.75/4.0\nRelevant Courses: Strategic Management, Financial Management, Organizational Behavior, Operations & Supply Chain, Statistics II, Macroeconomics, Microeconomics."
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Jul 2023 – Sep 2023 | Remote\n- Conducted real estate data analysis and produced investment value reports.\n- Collaborated with senior analysts on R&D strategy and market projects.\n- Engaged with clients to understand needs and deliver customized insights.\n\n\n\nDec 2022 – Jan 2023 | Remote\n- Collected and interpreted data for logistics operations.\n- Assisted in regional market expansion and customer development.\n- Performed profitability and financial data analysis."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Languages: English, Mandarin\n\nTools: Microsoft Excel, Power BI, Python (Pandas, Spark), Tableau, SQL\n\nSoft Skills: Research, Communication, Strategic Thinking, Team Collaboration"
+  }
+]
