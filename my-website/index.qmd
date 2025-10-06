@@ -1,0 +1,16 @@
+---
+---
+title: "Haocun Wang"
+format:
+  html:
+    theme: cerulean
+    toc: true
+---
+
+# Welcome
+
+Hello! I’m **Haocun Wang**, a graduate student at **Boston University** pursuing a **Master of Science in Applied Business Analytics**.  
+With a solid foundation in **finance** from Weber State University and a growing expertise in **data analytics, strategic management, and business intelligence**, I am passionate about leveraging data-driven insights to support smart business decisions.
+
+This website serves as my **professional portfolio**, showcasing my academic work, projects, and experience.  
+Please explore the tabs above to learn more about me, view my work, and connect professionally.

@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+# Contact Me
+
+If you’d like to connect, collaborate, or learn more about my work, feel free to reach out!
+
+📧 **Email:** [w21547724@gmail.com](mailto:w21547724@gmail.com)  
+📞 **Phone:** (626) 747-5111  
+📍 **Location:** Diamond Bar, California  
+
+You can also connect with me on  
+🌐 **LinkedIn:** [linkedin.com/in/haocun-wang](https://linkedin.com) *(add your actual link)*  
+💻 **GitHub:** [github.com/haocunwang](https://github.com) *(add your actual repo)*

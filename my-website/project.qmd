@@ -1,0 +1,37 @@
+---
+title: "Projects"
+---
+
+# Featured Projects
+
+## 📊 Business Analytics Portfolio
+**Tools:** PySpark, Pandas, Quarto, Plotly  
+Developed interactive visualizations analyzing job market salary distributions using **Lightcast job postings data**.  
+Explored relationships between experience level, education, and industry type to uncover patterns in remote and onsite employment.  
+- Created automated dashboards with Python and Quarto.  
+- Applied Spark SQL for large-scale data processing.  
+- Designed visual storytelling for executive reporting.
+
+---
+
+## 💡 Strategic Startup Analysis
+**Tools:** Excel, Tableau  
+Performed a comprehensive startup market assessment as part of the *Startup Innovation* course.  
+Evaluated market positioning, financial sustainability, and customer segments for early-stage businesses.  
+Delivered a data-driven strategy presentation using visualization tools to demonstrate business viability.
+
+---
+
+## 💼 Real Estate Data Research – Great Wall Realty Inc.
+**Role:** Assistant Analyst Intern | *07/2023–09/2023*  
+Analyzed market data, supported investment research, and produced valuation summaries.  
+Worked with senior analysts to identify regional investment opportunities and customer segments.  
+Enhanced reporting accuracy by organizing datasets and generating insights for internal strategy teams.
+
+---
+
+## 🚚 Logistics Data Analysis – CHCL Logistics Inc.
+**Role:** Assistant Analyst Intern | *12/2022–01/2023*  
+Collected and interpreted supply chain and logistics data.  
+Developed reports highlighting efficiency trends and performance gaps.  
+Supported market research, regional expansion, and customer data management projects.

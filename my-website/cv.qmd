@@ -1,0 +1,40 @@
+---
+title: "Curriculum Vitae"
+---
+
+# Curriculum Vitae
+
+Download my CV: [Haocun_Wang_CV.pdf](Resume.pdf)
+
+---
+
+## Education
+- **Boston University**, Boston, MA  
+  *Master of Science in Applied Business Analytics* (2024–Present)
+
+- **Weber State University**, Ogden, UT  
+  *Bachelor of Science in Finance* (2020–2023)  
+  GPA: 3.75/4.0  
+  **Relevant Courses:** Strategic Management, Financial Management, Organizational Behavior, Operations & Supply Chain, Statistics II, Macroeconomics, Microeconomics.
+
+---
+
+## Professional Experience
+### Great Wall Realty Inc. – Assistant Analyst Intern  
+*Jul 2023 – Sep 2023 | Remote*  
+- Conducted real estate data analysis and produced investment value reports.  
+- Collaborated with senior analysts on R&D strategy and market projects.  
+- Engaged with clients to understand needs and deliver customized insights.
+
+### CHCL Logistics Inc. – Assistant Analyst Intern  
+*Dec 2022 – Jan 2023 | Remote*  
+- Collected and interpreted data for logistics operations.  
+- Assisted in regional market expansion and customer development.  
+- Performed profitability and financial data analysis.
+
+---
+
+## Skills
+- **Languages:** English, Mandarin  
+- **Tools:** Microsoft Excel, Power BI, Python (Pandas, Spark), Tableau, SQL  
+- **Soft Skills:** Research, Communication, Strategic Thinking, Team Collaboration

@@ -1,0 +1,21 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+I’m **Haocun Wang**, a data-driven professional passionate about the intersection of **finance, analytics, and innovation**.  
+Currently pursuing my **Master’s in Applied Business Analytics** at **Boston University**, I am focused on developing strong analytical and programming skills to support business intelligence and data visualization for real-world decision-making.
+
+I earned my **Bachelor of Science in Finance** from **Weber State University**, where I built a strong foundation in **microeconomics, strategic management, financial institutions, and supply chain operations**.  
+My academic and professional journey has shaped me into a curious problem solver who enjoys uncovering insights hidden within data.
+
+In my free time, I enjoy exploring **machine learning applications, startup innovation, and emerging business technologies**.  
+My long-term goal is to become a **Business or Data Analyst** specializing in **strategic analytics** for financial and technology sectors.
+
+---
+
+### 🎯 **Career Goals**
+- Build expertise in **data analytics and business intelligence tools** (Python, PySpark, Tableau, SQL).  
+- Work in industries where **data science meets business strategy**, such as finance, consulting, or tech.  
+- Continue developing leadership, communication, and cross-functional project skills.
